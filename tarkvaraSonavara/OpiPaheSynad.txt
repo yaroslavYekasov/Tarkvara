@@ -7,3 +7,4 @@
 Проект по разработке - Arendusprojekt
 Проект по реализации - Realiseerimisprojekt
 Диаграмма Ганта - Gantt diagramm
+Driver - utiliitprogramm, mis teeb lisaseadmed operatsioonisüsteemile kättesaadavaks ja kasutatavaks
